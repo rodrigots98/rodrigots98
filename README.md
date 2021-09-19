@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/rodrigots98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigots98&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigots98&layout=&langs_count=2&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigots98&langs_count=2&theme=discord_old_blurple&"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="ArcGIS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   
 </div>
-  
+ 
  ##
   
  <div> 
