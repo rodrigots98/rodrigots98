@@ -7,7 +7,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="30" width="30" src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png">
+ <img align="center" alt="ArcGIS" height="50" width="40" src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png">
   <img align="center" alt="ArcGIS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  
 </div>
   
  ##
